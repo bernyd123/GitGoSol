@@ -7,5 +7,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
     trigger OnOpenPage();
     begin
         Message('App published: Hello world');
+        //This is my first change to the halle world file...
     end;
 }
